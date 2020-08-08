@@ -16,12 +16,7 @@ A continuación se listan los nombres y usuarios de Twitch de las personas que f
 
 Dependiendo de la gravedad de la ofensa, el equipo de moderación podrá bloquear temporalmente a la persona en falta de participar en el chat de la transmisión, informando con el siguiente mensaje:
 
-```
-#DevOffSafety: Se ha suspendido a @username por <duración de la suspensión>, por <razón de la suspensión>, 
-incumpliendo el código de conducta de DevOff: https://github.com/devoffarg/codigo-de-conducta. 
-
-Esta es una primera advertencia. De repetir persistentemente este comportamiento, la persona será expulsada de manera permanente.
-```
+> #DevOffSafety: Se ha suspendido a @username por [duración de la suspensión] por [razón de la suspensión], incumpliendo el código de conducta de DevOff: https://github.com/devoffarg/codigo-de-conducta. Esta es una primera advertencia. De repetir persistentemente este comportamiento, la persona será expulsada de manera permanente.
 
 La advertencia podrá otorgarse como máximo 1 vez.
 
@@ -29,10 +24,7 @@ La advertencia podrá otorgarse como máximo 1 vez.
 
 Si una persona reincide en comportamiento indebido tras ser advertida, el equipo de moderación podrá expulsar a la persona del chat de la transmisión de forma permanente, informando con el siguiente mensaje:
 
-```
-#DevOffSafety: Se ha expulsado a @username de manera permanente, por <razón de la suspensión>, 
-incumpliendo el código de conducta de DevOff: https://github.com/devoffarg/codigo-de-conducta.
-```
+> #DevOffSafety: Se ha expulsado a @username de manera permanente, por [razón de la suspensión], incumpliendo el código de conducta de DevOff: https://github.com/devoffarg/codigo-de-conducta.
 
 # Código de conducta
 
