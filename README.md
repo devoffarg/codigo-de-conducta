@@ -1,4 +1,4 @@
-> Este documento es un derivado del código de conducta del código de conducta de CoDeAr, obtenido de https://codear.org/coc.
+![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
 
 # Protocolo de moderación
 
@@ -27,6 +27,8 @@ Si una persona reincide en comportamiento indebido tras ser advertida, el equipo
 > #DevOffSafety: Se ha expulsado a @username de manera permanente, por [razón de la suspensión], incumpliendo el código de conducta de DevOff: https://github.com/devoffarg/codigo-de-conducta.
 
 # Código de conducta
+
+> Este documento es un derivado del código de conducta del código de conducta de CoDeAr, obtenido de https://codear.org/coc.
 
 Quienes formamos parte de DevOff nos comprometemos a mantener un ambiente confortable y seguro para todas las personas dentro del programa, más allá de su identidad y expresión de género, orientación sexual, discapacidades, apariencia física, etnia, nacionalidad, religión (o falta de la misma), nivel socioeconómico u otras características personales.
 
